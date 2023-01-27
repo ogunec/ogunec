@@ -7,8 +7,7 @@
 
 
 ## Languages and Tools
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" alt="dotnet" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /> </p>
-
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40 /> <img src="https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/netcore.svg" alt="dotnet" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /> </p>
 
 
 
