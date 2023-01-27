@@ -1,4 +1,4 @@
-- ## Hey! 👋
+## Hey! 👋
 - 👋 Hi, I’m Onur Güneç
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C#, .NET, HTML5, CSS3, Javascript
