@@ -1,5 +1,5 @@
 
-## Hey! 👋
+## Hey! 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ogunec&label=Profile%20views&color=0e75b6&style=flat" alt="ogunec" /> </p>
 - 👋 Hi, I’m Onur Güneç
 - 👀 I'm improving myself to become a Full Stack Developer
 - 📌 LinkedIn: [Onur Güneç](https://www.linkedin.com/in/ogunec/)
@@ -28,7 +28,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ogunec&show_icons=true&theme=buefy" alt="ogunec" />  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ogunec&label=Profile%20views&color=0e75b6&style=flat" alt="ogunec" /> </p>
+
 <!---
 ogunec/ogunec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
