@@ -5,7 +5,7 @@
   <br>
 - 👀 I'm improving myself to become a Full Stack Developer
   <br>
-<a href="https://linkedin.com/in/ogunec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogunec" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/ogunec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogunec" height="31" width="31" /></a>
   <br>
 - 📫 How to reach me: ogunec@hotmail.com 
 </p>
