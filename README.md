@@ -64,13 +64,6 @@
 
 ## 📊 GitHub İstatistikleri
 
-<div align="center">
-  <!-- Daha stabil parametrelerle -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ogunec&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogunec&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
 
 <div align="center">
   <!-- herokuapp yerine demolab -->
